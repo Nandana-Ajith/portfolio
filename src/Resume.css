@@ -1,0 +1,78 @@
+img{
+    width: 82px;
+    height: 82px;
+}
+.top-ui{
+  font-size: 36px;
+}
+.logo{
+    width: 32px;
+    height: 32px;
+    padding-top: 10px;
+    padding-right: 5px;
+
+}
+.top-logos{
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-top: 35px;
+}
+.top-container{
+    display: flex;
+    justify-content: center;
+}
+.top-details{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+
+
+}
+.Container{
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+    justify-content: center ;
+    align-items: center;
+}
+
+.objective-container{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+.objective-content{
+    text-align: center;
+}
+
+h3{
+    font-size: 26px;
+}
+.Skills-container{
+    /* text-align: center; */
+}
+.skills-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-row-gap: 25px;
+    padding-top: 20px;
+}
+.Tool-icons{
+    display: flex;
+    gap:80px;
+}
+.Education-container{
+    display: flex;
+    gap: 40px;
+}
+.Education-img{
+    height: 750px;
+    width: auto;
+}
+
+
+p,li,ul{
+    font-size: 22px;
+}
