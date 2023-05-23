@@ -5,6 +5,10 @@ import behance from './assets/behance.png'
 import logo from './assets/potfolio.png'
 import './Frontpage.css'
 import { Link } from "react-scroll";
+import pjt1 from './assets/1 pjt.png'
+import pjt2 from './assets/pjt 2.png'
+import pjt3 from './assets/pjt 3.png'
+
 function Frontpage(){
   return (
     <div className='Front-page'>
@@ -56,9 +60,9 @@ function Mydesignworks(){
     <div className='My-design' id='myDesign'>
       <h2 className='design-heading'>My Design Works</h2>
       <div className='design-img'>
-      <img src={img}></img>
-      <img src={img}></img>
-      <img src={img}></img>
+      <img src={pjt1}></img>
+      <img src={pjt2}></img>
+      <img src={pjt3}></img>
       </div>
       <button>View more ></button>
     </div>
