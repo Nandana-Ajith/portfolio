@@ -60,8 +60,7 @@ function Mydesignworks(){
       <img src={img}></img>
       <img src={img}></img>
       </div>
-      
-      <button>View more</button>
+      <button>View more ></button>
     </div>
   );
 }
