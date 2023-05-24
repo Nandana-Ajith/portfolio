@@ -1,4 +1,4 @@
-import img from './assets/front-img.jpg';
+import img from './assets/front-img (2).jpg';
 import linkedin from './assets/linkedin.png'
 import gmail from './assets/gmail.png'
 import behance from './assets/behance.png'
